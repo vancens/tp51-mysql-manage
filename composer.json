@@ -1,0 +1,20 @@
+{
+  "name": "vancens/tp51-mysql-manage",
+  "description": "thinkphp5.1操作mysql新增、修改、删除数据表、数据表字段",
+  "type": "project",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "vancens",
+      "email": "service@vancens.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "vancens\\mysql\\": "src"
+    }
+  }
+}
